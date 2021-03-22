@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.jcup.ekube_0.10.0.jar" id="de.jcup.ekube" version="0.10.0">
+      <category name="de.jcup.ekube.category.beta"/>
+   </feature>
+   <category-def name="de.jcup.ekube.category.beta" label="Beta"/>
+</site>
